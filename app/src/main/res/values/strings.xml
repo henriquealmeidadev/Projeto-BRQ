@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Projeto BRQ</string>
+    <string name="Titulo_View">Primeiro Projeto</string>
+    <string name="Recepção_login">Seja bem vindo(a)!</string>
+    <string name="placeholder_email">Digite seu email</string>
+    <string name="placeholder_password">Digite sua senha</string>
+    <string name="placebuttom_login">Fazer login</string>
+    <string name="Estamos_na_tela_principal">Estamos na tela principal</string>
+</resources>
